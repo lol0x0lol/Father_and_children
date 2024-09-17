@@ -1,9 +1,12 @@
-﻿#include <windows.h>
+#include <iostream>
+#include <windows.h>
 #include <string>
 #include <vector>
 #include <iostream>
 #include <sstream>
 #include <map>
+#include <fstream>
+#include <algorithm>
 using namespace std;
 
 
